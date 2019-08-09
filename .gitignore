@@ -95,3 +95,6 @@ cloud_sql_proxy
 
 ### KEYS FOR SETTINGS.PY ###
 airqualitysite/privatesettings.py
+
+## PYCHARM ##
+.idea/
